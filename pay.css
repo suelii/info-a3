@@ -1,0 +1,1027 @@
+.frame {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    background-color: #ffffff;
+  }
+  
+  .frame .body {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    border: 0px none;
+  }
+  
+  .frame .div {
+    position: relative;
+    width: 1440px;
+    height: 1728px;
+    background-color: #f9fafb;
+    border: 0px none;
+  }
+  
+  .frame .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 1659px;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .main {
+    position: absolute;
+    width: 1280px;
+    height: 1597px;
+    top: 62px;
+    left: 80px;
+    border: 0px none;
+  }
+  
+  .frame .div-2 {
+    position: absolute;
+    width: 896px;
+    height: 815px;
+    top: 32px;
+    left: 192px;
+    border: 0px none;
+  }
+  
+  .frame .div-3 {
+    position: absolute;
+    width: 896px;
+    height: 461px;
+    top: 125px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 0px none;
+    box-shadow: 0px 4px 6px #0000001a, 0px 2px 4px #0000001a;
+  }
+  
+  .frame .h {
+    position: absolute;
+    width: 848px;
+    height: 32px;
+    top: 24px;
+    left: 24px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    width: 278px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .div-4 {
+    position: absolute;
+    width: 848px;
+    height: 97px;
+    top: 72px;
+    left: 24px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e5e7eb;
+  }
+  
+  .frame .div-5 {
+    position: absolute;
+    width: 324px;
+    height: 80px;
+    top: 0;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .mask-group {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .div-6 {
+    position: absolute;
+    width: 228px;
+    height: 48px;
+    top: 16px;
+    left: 96px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    width: 298px;
+    top: 1px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    width: 116px;
+    top: 25px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #4b5563;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .frame .text-wrapper-4 {
+    width: 60px;
+    top: 28px;
+    left: 787px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    position: absolute;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .frame .text-wrapper-5 {
+    top: 58px;
+    position: absolute;
+    width: 60px;
+    left: 787px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #4b5563;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .frame .text-wrapper-6 {
+    position: absolute;
+    width: 80px;
+    top: 419px;
+    left: 24px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .frame .text-wrapper-7 {
+    width: 105px;
+    top: 419px;
+    left: 767px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #7c3aed;
+    font-size: 20px;
+    position: absolute;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .frame .div-7 {
+    position: absolute;
+    width: 848px;
+    height: 97px;
+    top: 185px;
+    left: 24px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e5e7eb;
+  }
+  
+  .frame .text-wrapper-8 {
+    position: absolute;
+    width: 228px;
+    top: 1px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .frame .text-wrapper-9 {
+    top: 60px;
+    position: absolute;
+    width: 60px;
+    left: 787px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #4b5563;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .frame .div-8 {
+    position: absolute;
+    width: 848px;
+    height: 97px;
+    top: 298px;
+    left: 24px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #e5e7eb;
+  }
+  
+  .frame .div-9 {
+    position: absolute;
+    width: 896px;
+    height: 295px;
+    top: 610px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 0px none;
+    box-shadow: 0px 4px 6px #0000001a, 0px 2px 4px #0000001a;
+  }
+  
+  .frame .text-wrapper-10 {
+    position: absolute;
+    width: 188px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 848px;
+    height: 76px;
+    top: 80px;
+    left: 24px;
+  }
+  
+  .frame .div-wrapper {
+    position: absolute;
+    width: 848px;
+    height: 52px;
+    top: 0;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .div-10 {
+    position: relative;
+    height: 52px;
+    border: 0px none;
+  }
+  
+  .frame .input {
+    width: 188px;
+    top: 26px;
+    left: 211px;
+    position: absolute;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #d1d5db;
+  }
+  
+  .frame .text-wrapper-11 {
+    position: absolute;
+    width: 162px;
+    height: 50px;
+    top: -1px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #adaebc;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .frame .text-wrapper-12 {
+    position: absolute;
+    width: 88px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #374151;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-13 {
+    position: absolute;
+    width: 88px;
+    top: 0;
+    left: 211px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #374151;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .input-2 {
+    width: 188px;
+    top: 26px;
+    left: 0;
+    position: absolute;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #d1d5db;
+  }
+  
+  .frame .div-11 {
+    position: absolute;
+    width: 848px;
+    height: 374px;
+    top: 156px;
+    left: 24px;
+    border: 0px none;
+  }
+  
+  .frame .overlap-group-2 {
+    position: absolute;
+    width: 848px;
+    height: 103px;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .div-12 {
+    position: absolute;
+    width: 848px;
+    height: 78px;
+    top: 0;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .label {
+    position: relative;
+    height: 20px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-14 {
+    width: 88px;
+    top: 31px;
+    left: 0;
+    color: #374151;
+    font-size: 14px;
+    line-height: normal;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .frame .text-wrapper-15 {
+    position: absolute;
+    width: 88px;
+    top: 31px;
+    left: 365px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #374151;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .input-3 {
+    width: 317px;
+    top: 53px;
+    left: 0;
+    position: absolute;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #d1d5db;
+  }
+  
+  .frame .text-wrapper-16 {
+    width: 127px;
+    height: 50px;
+    top: -1px;
+    left: 16px;
+    color: #adaebc;
+    font-size: 16px;
+    line-height: 24px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .frame .input-4 {
+    width: 487px;
+    top: 53px;
+    left: 361px;
+    position: absolute;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #d1d5db;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #adaebc;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+    padding: 0;
+    padding-left: 16px;
+  }
+  
+  .frame .div-13 {
+    position: absolute;
+    width: 848px;
+    height: 78px;
+    top: 188px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .label-2 {
+    height: 20px;
+    border: 0px none;
+  }
+  
+  .frame .frame-wrapper {
+    display: flex;
+    width: 12px;
+    height: 14px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 357px;
+    left: 251px;
+  }
+  
+  .frame .div-14 {
+    position: relative;
+    width: 12.25px;
+    height: 14px;
+    border: 0px none;
+  }
+  
+  .frame .div-15 {
+    position: absolute;
+    width: 896px;
+    height: 554px;
+    top: 929px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 0px none;
+    box-shadow: 0px 4px 6px #0000001a, 0px 2px 4px #0000001a;
+  }
+  
+  .frame .text-wrapper-17 {
+    position: absolute;
+    width: 307px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .div-16 {
+    position: absolute;
+    width: 848px;
+    height: 52px;
+    top: 80px;
+    left: 24px;
+    border: 0px none;
+  }
+  
+  .frame .button {
+    all: unset;
+    box-sizing: border-box;
+    width: 416px;
+    height: 52px;
+    top: 0;
+    left: 0;
+    background-color: #f5f3ff;
+    border: 2px solid;
+    border-color: #7c3aed;
+    position: absolute;
+    border-radius: 8px;
+  }
+  
+  .frame .i {
+    position: absolute;
+    width: 27px;
+    height: 24px;
+    top: 14px;
+    left: 147px;
+    border: 0px none;
+  }
+  
+  .frame .svg {
+    display: flex;
+    width: 27px;
+    height: 24px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .frame .img {
+    position: relative;
+    width: 27px;
+    height: 24px;
+  }
+  
+  .frame .span {
+    position: absolute;
+    width: 87px;
+    height: 24px;
+    top: 14px;
+    left: 182px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-18 {
+    position: absolute;
+    width: 109px;
+    top: 1px;
+    left: -3px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #7c3aed;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-group-wrapper {
+    all: unset;
+    box-sizing: border-box;
+    width: 416px;
+    height: 52px;
+    top: 0;
+    left: 432px;
+    border: 2px solid;
+    border-color: #e5e7eb;
+    position: absolute;
+    border-radius: 8px;
+  }
+  
+  .frame .overlap-group-3 {
+    position: relative;
+    width: 93px;
+    height: 24px;
+    top: 14px;
+    left: 169px;
+  }
+  
+  .frame .img-wrapper {
+    display: flex;
+    width: 18px;
+    height: 24px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .img-2 {
+    position: relative;
+    width: 18px;
+    height: 24px;
+  }
+  
+  .frame .text-wrapper-19 {
+    position: absolute;
+    width: 82px;
+    top: 1px;
+    left: 11px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #9ca3af;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .frame .label-3 {
+    position: absolute;
+    width: 848px;
+    top: 0;
+    left: 0;
+    height: 20px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-20 {
+    position: absolute;
+    width: 175px;
+    top: 1px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #374151;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .div-17 {
+    position: absolute;
+    width: 848px;
+    height: 50px;
+    top: 28px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .overlap-group-4 {
+    position: relative;
+    height: 50px;
+    border-radius: 8px;
+  }
+  
+  .frame .input-5 {
+    width: 848px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #d1d5db;
+  }
+  
+  .frame .frame-wrapper-2 {
+    display: flex;
+    width: 18px;
+    height: 16px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 17px;
+    left: 814px;
+  }
+  
+  .frame .img-3 {
+    position: relative;
+    width: 18px;
+    height: 16px;
+  }
+  
+  .frame .div-18 {
+    position: absolute;
+    width: 848px;
+    height: 78px;
+    top: 94px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .div-19 {
+    position: absolute;
+    width: 416px;
+    height: 78px;
+    top: 0;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .label-4 {
+    position: absolute;
+    width: 416px;
+    top: 0;
+    left: 0;
+    height: 20px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-21 {
+    position: absolute;
+    width: 78px;
+    top: 1px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #374151;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .input-6 {
+    width: 416px;
+    top: 28px;
+    left: 0;
+    position: absolute;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #d1d5db;
+  }
+  
+  .frame .text-wrapper-22 {
+    position: absolute;
+    width: 54px;
+    height: 50px;
+    top: -1px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #adaebc;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .frame .div-20 {
+    position: absolute;
+    width: 416px;
+    height: 78px;
+    top: 0;
+    left: 432px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-23 {
+    position: absolute;
+    width: 75px;
+    top: 1px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #374151;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .div-21 {
+    position: absolute;
+    width: 416px;
+    height: 50px;
+    top: 28px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .input-7 {
+    width: 416px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #d1d5db;
+  }
+  
+  .frame .text-wrapper-24 {
+    position: absolute;
+    width: 26px;
+    height: 50px;
+    top: -1px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #adaebc;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .frame .frame-wrapper-3 {
+    display: flex;
+    width: 16px;
+    height: 16px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 17px;
+    left: 384px;
+  }
+  
+  .frame .img-4 {
+    position: relative;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .frame .text-wrapper-25 {
+    position: absolute;
+    width: 209px;
+    top: 1px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #374151;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .input-8 {
+    width: 848px;
+    top: 28px;
+    left: 0;
+    position: absolute;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #d1d5db;
+  }
+  
+  .frame .text-wrapper-26 {
+    width: 136px;
+    position: absolute;
+    height: 50px;
+    top: -1px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #adaebc;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .frame .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    width: 848px;
+    height: 56px;
+    top: 282px;
+    left: 0;
+    background-color: #7c3aed;
+    border: 0px none;
+    position: absolute;
+    border-radius: 8px;
+  }
+  
+  .frame .text-wrapper-27 {
+    width: 134px;
+    top: 17px;
+    left: 357px;
+    color: #ffffff;
+    text-align: center;
+    line-height: normal;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  
+  .frame .p {
+    position: absolute;
+    width: 325px;
+    top: 355px;
+    left: 272px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #6b7280;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 14px;
+  }
+  
+  .frame .img-5 {
+    position: relative;
+    width: 12.25px;
+    height: 14px;
+    top:10px
+  }
+  
+  .frame .text-wrapper-28 {
+    position: absolute;
+    width: 257px;
+    top: 56px;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .frame .vector {
+    position: absolute;
+    width: 17px;
+    height: 19px;
+    top: 88px;
+    left: 123px;
+  }
+  
+  .frame .rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 79px;
+    top: 0;
+    left: 0;
+    background-color: #7c3aed;
+  }
+  
+  .frame .logo {
+    position: absolute;
+    width: 228px;
+    height: 46px;
+    top: 16px;
+    left: 606px;
+    object-fit: cover;
+  }
+  
+  .frame .footer {
+    position: absolute;
+    width: 1440px;
+    height: 69px;
+    top: 1659px;
+    left: 0;
+    background-color: #f9fafb;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-color: #e5e7eb;
+  }
+  
+  .frame .div-22 {
+    position: relative;
+    width: 1280px;
+    height: 68px;
+    top: 1px;
+    left: 80px;
+    border: 0px none;
+  }
+  
+  .frame .div-23 {
+    position: relative;
+    width: 1248px;
+    height: 20px;
+    top: 24px;
+    left: 16px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-29 {
+    position: absolute;
+    width: 266px;
+    top: 1px;
+    left: 491px;
+    font-family: "Space Grotesk-Regular", Helvetica;
+    font-weight: 400;
+    color: #6b7280;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 14px;
+  }
+  

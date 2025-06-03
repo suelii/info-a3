@@ -1,0 +1,1428 @@
+.frame {
+    display: flex;
+    flex-direction: column;
+    height: 2488px;
+    align-items: flex-start;
+    position: relative;
+    background-color: #ffffff;
+  }
+  
+  .frame .body {
+    position: relative;
+    width: 1440px;
+    height: 968px;
+    border: 0px none;
+  }
+  
+  .frame .div {
+    position: relative;
+    height: 2475px;
+    background-color: #f9fafb;
+    border: 0px none;
+  }
+  
+  .frame .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 600px;
+    top: -3px;
+    left: 0;
+  }
+  
+  .frame .section {
+    height: 600px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 1440px;
+    border: 0px none;
+  }
+  
+  .frame .div-2 {
+    position: relative;
+    width: 1280px;
+    height: 536px;
+    top: 64px;
+    left: 80px;
+    border: 0px none;
+  }
+  
+  .frame .overlap-group-wrapper {
+    position: absolute;
+    width: 1248px;
+    height: 536px;
+    top: 64px;
+    left: 96px;
+    border: 0px none;
+  }
+  
+  .frame .overlap-group {
+    position: relative;
+    width: 1440px;
+    height: 974px;
+    top: 8px;
+    left: -96px;
+    background-image: url(home\ page\ pic.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .frame .div-3 {
+    position: relative;
+    width: 624px;
+    height: 232px;
+    top: 181px;
+    left: 408px;
+    border: 0px none;
+  }
+  
+  .frame .group {
+    position: absolute;
+    width: 1440px;
+    height: 79px;
+    top: 3px;
+    left: 0;
+    background-color: #7c3aed;
+  }
+  
+  .frame .logo {
+    position: absolute;
+    width: 228px;
+    height: 46px;
+    top: 16px;
+    left: 606px;
+    object-fit: cover;
+  }
+  
+  .frame .vector {
+    position: absolute;
+    width: 18px;
+    height: 15px;
+    top: 34px;
+    left: 33px;
+  }
+  
+  .frame .vector-wrapper {
+    position: absolute;
+    width: 18px;
+    height: 16px;
+    top: 34px;
+    left: 1364px;
+  }
+  
+  .frame .img {
+    position: absolute;
+    width: 18px;
+    height: 16px;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .overlap-2 {
+    position: absolute;
+    width: 1440px;
+    height: 875px;
+    top: 993px;
+    left: 0;
+  }
+  
+  .frame .section-2 {
+    height: 875px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 1440px;
+    border: 0px none;
+  }
+  
+  .frame .div-4 {
+    position: absolute;
+    width: 1280px;
+    height: 456px;
+    top: 361px;
+    left: 80px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    width: 249px;
+    top: 0;
+    left: 16px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .frame .div-5 {
+    position: absolute;
+    width: 1248px;
+    height: 388px;
+    top: 68px;
+    left: 16px;
+    border: 0px none;
+  }
+  
+  .frame .div-6 {
+    position: absolute;
+    width: 294px;
+    height: 388px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 0px none;
+    box-shadow: 0px 1px 2px #0000000d;
+  }
+  
+  .frame .span-wrapper {
+    position: absolute;
+    width: 294px;
+    height: 256px;
+    top: 0;
+    left: 0;
+    border: 0px none;
+    background-image: url(homepage\ product\ 1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .frame .span {
+    width: 44px;
+    left: 242px;
+    position: relative;
+    height: 28px;
+    top: 8px;
+    background-color: #10b981;
+    border-radius: 6px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-2 {
+    width: 28px;
+    top: 6px;
+    left: 8px;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: normal;
+    position: absolute;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .frame .div-7 {
+    position: absolute;
+    width: 294px;
+    height: 132px;
+    top: 256px;
+    left: 0;
+    border: 0px none;
+  }
+
+  
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    width: 252px;
+    top: 18px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-4 {
+    position: absolute;
+    width: 185px;
+    top: 50px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #4b5563;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .frame .div-8 {
+    position: absolute;
+    width: 262px;
+    height: 40px;
+    top: 76px;
+    left: 16px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-5 {
+    width: 98px;
+    position: absolute;
+    top: 8px;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #7c3aed;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .frame .button {
+    all: unset;
+    box-sizing: border-box;
+    width: 113px;
+    height: 40px;
+    left: 149px;
+    background-color: #7c3aed;
+    position: absolute;
+    top: 0;
+    border-radius: 8px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-6 {
+    position: absolute;
+    width: 81px;
+    top: 10px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .div-9 {
+    position: absolute;
+    width: 294px;
+    height: 388px;
+    top: 0;
+    left: 318px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 0px none;
+    box-shadow: 0px 1px 2px #0000000d;
+  }
+  
+  .frame .div-wrapper {
+    position: absolute;
+    width: 294px;
+    height: 256px;
+    top: 0;
+    left: 0;
+    border: 0px none;
+    background-image: url(homepage\ product\ 2.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+ 
+
+  .frame .span-2 {
+    width: 59px;
+    left: 227px;
+    position: relative;
+    height: 28px;
+    top: 8px;
+    background-color: #10b981;
+    border-radius: 6px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-7 {
+    width: 43px;
+    top: 6px;
+    left: 8px;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    line-height: normal;
+    position: absolute;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-8 {
+    position: absolute;
+    width: 236px;
+    top: 18px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-9 {
+    position: absolute;
+    width: 149px;
+    top: 50px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #4b5563;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-10 {
+    width: 95px;
+    position: absolute;
+    top: 8px;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #7c3aed;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .frame .div-10 {
+    position: absolute;
+    width: 294px;
+    height: 388px;
+    top: 0;
+    left: 636px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 0px none;
+    box-shadow: 0px 1px 2px #0000000d;
+  }
+  
+  .frame .div-11 {
+    position: absolute;
+    width: 294px;
+    height: 256px;
+    top: 0;
+    left: 0;
+    border: 0px none;
+    background-image: url(home\ product\ 3.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .frame .text-wrapper-11 {
+    position: absolute;
+    width: 229px;
+    top: 18px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-12 {
+    position: absolute;
+    width: 188px;
+    top: 50px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #4b5563;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-13 {
+    width: 117px;
+    position: absolute;
+    top: 8px;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #7c3aed;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .frame .div-12 {
+    position: absolute;
+    width: 294px;
+    height: 388px;
+    top: 0;
+    left: 954px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 0px none;
+    box-shadow: 0px 1px 2px #0000000d;
+  }
+  
+  .frame .div-13 {
+    position: absolute;
+    width: 294px;
+    height: 256px;
+    top: 0;
+    left: 0;
+    border: 0px none;
+    background-image: url(hom\ product\ 4.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .frame .text-wrapper-14 {
+    position: absolute;
+    width: 154px;
+    top: 18px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-15 {
+    position: absolute;
+    width: 178px;
+    top: 50px;
+    left: 16px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #4b5563;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-16 {
+    width: 75px;
+    position: absolute;
+    top: 8px;
+    left: 0;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #7c3aed;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .frame .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    width: 100px;
+    height: 40px;
+    left: 162px;
+    background-color: #7c3aed;
+    position: absolute;
+    top: 0;
+    border-radius: 8px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-17 {
+    position: absolute;
+    width: 100px;
+    top: 10px;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-group-2 {
+    position: absolute;
+    width: 94px;
+    height: 19px;
+    top: 34px;
+    left: 1164px;
+  }
+  
+  .frame .text-wrapper-18 {
+    position: absolute;
+    width: 92px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .vector-2 {
+    position: absolute;
+    width: 13px;
+    height: 12px;
+    top: 4px;
+    left: 82px;
+  }
+  
+  .frame .section-3 {
+    height: 304px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    position: absolute;
+    width: 1440px;
+    border: 0px none;
+  }
+  
+  .frame .div-14 {
+    position: relative;
+    width: 1280px;
+    height: 176px;
+    top: 64px;
+    left: 80px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-19 {
+    position: absolute;
+    width: 239px;
+    top: 0;
+    left: 16px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .frame .div-15 {
+    position: absolute;
+    width: 1248px;
+    height: 108px;
+    top: 68px;
+    left: 16px;
+    border: 0px none;
+  }
+  
+  .frame .div-16 {
+    position: absolute;
+    width: 230px;
+    height: 108px;
+    top: 0;
+    left: 0;
+    background-color: #f5f3ff;
+    border-radius: 12px;
+    border: 0px none;
+  }
+  
+  .frame .overlap-group-3 {
+    position: relative;
+    width: 182px;
+    height: 62px;
+    top: 22px;
+    left: 24px;
+  }
+  
+  .frame .i {
+    width: 45px;
+    left: 69px;
+    position: absolute;
+    height: 42px;
+    top: 0;
+    border: 0px none;
+  }
+  
+  .frame .svg {
+    width: 45px;
+    display: flex;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 2px;
+  }
+  
+  .frame .img-2 {
+    position: relative;
+    width: 45px;
+    height: 36px;
+  }
+  
+  .frame .h {
+    position: absolute;
+    width: 182px;
+    height: 24px;
+    top: 38px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-20 {
+    position: absolute;
+    width: 104px;
+    top: 2px;
+    left: 39px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .overlap-wrapper {
+    position: absolute;
+    width: 230px;
+    height: 108px;
+    top: 0;
+    left: 254px;
+    background-color: #eff6ff;
+    border-radius: 12px;
+    border: 0px none;
+  }
+  
+  .frame .svg-wrapper {
+    width: 32px;
+    left: 75px;
+    position: absolute;
+    height: 42px;
+    top: 0;
+    border: 0px none;
+  }
+  
+  .frame .frame-wrapper {
+    width: 32px;
+    display: flex;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 2px;
+  }
+  
+  .frame .img-3 {
+    position: relative;
+    width: 31.5px;
+    height: 36px;
+  }
+  
+  .frame .text-wrapper-21 {
+    width: 50px;
+    left: 67px;
+    position: absolute;
+    top: 2px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .div-17 {
+    position: absolute;
+    width: 230px;
+    height: 108px;
+    top: 0;
+    left: 509px;
+    background-color: #ecfdf5;
+    border-radius: 12px;
+    border: 0px none;
+  }
+  
+  .frame .i-2 {
+    width: 40px;
+    left: 71px;
+    position: absolute;
+    height: 42px;
+    top: 0;
+    border: 0px none;
+  }
+  
+  .frame .img-wrapper {
+    width: 40px;
+    display: flex;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 2px;
+  }
+  
+  .frame .img-4 {
+    position: relative;
+    width: 40.5px;
+    height: 36px;
+  }
+  
+  .frame .text-wrapper-22 {
+    position: absolute;
+    width: 86px;
+    top: 2px;
+    left: 48px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .div-18 {
+    position: absolute;
+    width: 230px;
+    height: 108px;
+    top: 0;
+    left: 763px;
+    background-color: #fef2f2;
+    border-radius: 12px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-23 {
+    position: absolute;
+    width: 94px;
+    top: 2px;
+    left: 45px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .div-19 {
+    position: absolute;
+    width: 230px;
+    height: 108px;
+    top: 0;
+    left: 1018px;
+    background-color: #fffbeb;
+    border-radius: 12px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-24 {
+    width: 56px;
+    left: 63px;
+    position: absolute;
+    top: 2px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-25 {
+    position: absolute;
+    width: 92px;
+    top: 98px;
+    left: 1236px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .vector-3 {
+    position: absolute;
+    width: 13px;
+    height: 12px;
+    top: 102px;
+    left: 1318px;
+  }
+  
+  .frame .section-4 {
+    height: 284px;
+    top: 1868px;
+    left: -3px;
+    background-color: #7c3aed;
+    position: absolute;
+    width: 1440px;
+    border: 0px none;
+  }
+  
+  .frame .div-20 {
+    position: relative;
+    width: 1280px;
+    height: 156px;
+    top: 64px;
+    left: 80px;
+    border: 0px none;
+  }
+  
+  .frame .div-21 {
+    position: relative;
+    width: 1248px;
+    height: 156px;
+    left: 16px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-26 {
+    position: absolute;
+    width: 180px;
+    top: 0;
+    left: 534px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .frame .p {
+    position: absolute;
+    width: 466px;
+    top: 54px;
+    left: 389px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .div-22 {
+    position: absolute;
+    width: 448px;
+    height: 48px;
+    top: 108px;
+    left: 400px;
+    border: 0px none;
+  }
+  
+  .frame .input {
+    position: absolute;
+    width: 297px;
+    height: 48px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 0px none;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #adaebc;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+    padding: 0;
+    padding-left: 16px;
+  }
+  
+  .frame .button-3 {
+    all: unset;
+    box-sizing: border-box;
+    width: 135px;
+    height: 48px;
+    left: 313px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 0;
+    border-radius: 8px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-27 {
+    position: absolute;
+    width: 71px;
+    top: 14px;
+    left: 32px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #7c3aed;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .footer {
+    position: absolute;
+    width: 1440px;
+    height: 345px;
+    top: 2152px;
+    left: -5px;
+    background-color: #111827;
+    border: 0px none;
+  }
+  
+  .frame .div-23 {
+    position: relative;
+    width: 1280px;
+    height: 249px;
+    top: 48px;
+    left: 80px;
+    border: 0px none;
+  }
+  
+  .frame .div-24 {
+    position: absolute;
+    width: 1248px;
+    height: 160px;
+    top: 0;
+    left: 16px;
+    border: 0px none;
+  }
+  
+  .frame .div-25 {
+    position: absolute;
+    width: 288px;
+    height: 160px;
+    top: 0;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-28 {
+    position: absolute;
+    width: 251px;
+    top: 2px;
+    left: 0;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-29 {
+    position: absolute;
+    width: 251px;
+    top: 50px;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #9ca3af;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .div-26 {
+    position: absolute;
+    width: 288px;
+    height: 16px;
+    top: 108px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .frame-wrapper-2 {
+    display: flex;
+    width: 16px;
+    height: 16px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .img-5 {
+    position: relative;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .frame .frame-wrapper-3 {
+    display: flex;
+    width: 16px;
+    height: 16px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 32px;
+  }
+  
+  .frame .frame-wrapper-4 {
+    display: flex;
+    width: 14px;
+    height: 16px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 64px;
+  }
+  
+  .frame .img-6 {
+    position: relative;
+    width: 14px;
+    height: 16px;
+  }
+  
+  .frame .frame-wrapper-5 {
+    display: flex;
+    width: 20px;
+    height: 16px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 94px;
+  }
+  
+  .frame .img-7 {
+    position: relative;
+    width: 20px;
+    height: 16px;
+  }
+  
+  .frame .div-27 {
+    position: absolute;
+    width: 288px;
+    height: 160px;
+    top: 0;
+    left: 320px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-30 {
+    position: absolute;
+    width: 84px;
+    top: 2px;
+    left: 0;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .ul {
+    height: 120px;
+    position: absolute;
+    width: 288px;
+    top: 40px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .li {
+    top: 0;
+    position: absolute;
+    width: 288px;
+    height: 24px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-31 {
+    width: 90px;
+    top: 2px;
+    left: 0;
+    color: #9ca3af;
+    font-size: 16px;
+    line-height: 16px;
+    position: absolute;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .frame .li-2 {
+    top: 32px;
+    position: absolute;
+    width: 288px;
+    height: 24px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-32 {
+    position: absolute;
+    width: 126px;
+    top: 2px;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #9ca3af;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .li-3 {
+    top: 96px;
+    position: absolute;
+    width: 288px;
+    height: 24px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .div-28 {
+    position: absolute;
+    width: 288px;
+    height: 160px;
+    top: 0;
+    left: 640px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-33 {
+    position: absolute;
+    width: 128px;
+    top: 2px;
+    left: 0;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-34 {
+    width: 79px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #9ca3af;
+    position: absolute;
+    top: 2px;
+    left: 0;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-35 {
+    position: absolute;
+    width: 94px;
+    top: 2px;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #9ca3af;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .li-4 {
+    top: 64px;
+    position: absolute;
+    width: 288px;
+    height: 24px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-36 {
+    position: absolute;
+    width: 55px;
+    top: 2px;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #9ca3af;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-37 {
+    position: absolute;
+    width: 29px;
+    top: 2px;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #9ca3af;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .div-29 {
+    position: absolute;
+    width: 288px;
+    height: 160px;
+    top: 0;
+    left: 960px;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-38 {
+    width: 89px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    position: absolute;
+    top: 2px;
+    left: 0;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
+  .frame .ul-2 {
+    height: 88px;
+    position: absolute;
+    width: 288px;
+    top: 40px;
+    left: 0;
+    border: 0px none;
+  }
+  
+  .frame .text-wrapper-39 {
+    position: absolute;
+    width: 310px;
+    top: 2px;
+    left: 20px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #9ca3af;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .frame-wrapper-6 {
+    display: flex;
+    width: 12px;
+    height: 16px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 3px;
+    left: 0;
+  }
+  
+  .frame .img-8 {
+    position: relative;
+    width: 12px;
+    height: 16px;
+  }
+  
+  .frame .text-wrapper-40 {
+    position: absolute;
+    width: 111px;
+    top: 2px;
+    left: 24px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #9ca3af;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .frame .frame-wrapper-7 {
+    display: flex;
+    width: 16px;
+    height: 16px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 3px;
+    left: 0;
+  }
+  
+  .frame .text-wrapper-41 {
+    position: absolute;
+    width: 174px;
+    top: 2px;
+    left: 24px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #9ca3af;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .frame .div-30 {
+    position: absolute;
+    width: 1248px;
+    height: 57px;
+    top: 192px;
+    left: 16px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-color: #1f2937;
+  }
+  
+  .frame .text-wrapper-42 {
+    position: absolute;
+    width: 389px;
+    top: 28px;
+    left: 429px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #9ca3af;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  
